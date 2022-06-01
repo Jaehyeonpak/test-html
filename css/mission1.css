@@ -1,0 +1,63 @@
+.container {
+    width: 800px;
+    height: 200px;
+}
+
+.blog-left {
+    width: 80%;
+    height: 200px;
+    float: left;
+
+}
+
+.blog-img {
+    width: 20%;
+    height: 200px;
+    float: left;
+
+}
+
+.fonts {
+    
+    float:left;
+    
+}
+
+.content-img {
+    width: 50px;
+    
+    float: left;
+    display: block;
+}
+
+.navbar li {
+    display: inline-block;
+}
+
+.navbar a {
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
